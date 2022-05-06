@@ -1,0 +1,1 @@
+{"success":false,"cikis":false,"message":"Miktar minimum  20 olabilir!!"}
